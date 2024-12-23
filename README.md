@@ -31,12 +31,17 @@ Explore data by travel season, continent, and membership category.
 Analyze trends by purpose of travel, such as business, family vacations, or solo trips.
 
 # Custom Measures for Rich Insights
-# Membership Category: Segments users into New, Experienced, and Loyal members, enabling targeted strategies.
-# Hotel Rank: Dynamically ranks hotels based on a combination of scores and reviews, highlighting top performers.
+# Membership Category: 
+Segments users into New, Experienced, and Loyal members, enabling targeted strategies.
+# Hotel Rank:
+Dynamically ranks hotels based on a combination of scores and reviews, highlighting top performers.
 # 📊 What Sets This Dashboard Apart?
-# Beyond Numbers: It’s not just about data but the story behind it—why travelers choose certain destinations and how their experiences evolve over time.
-# Actionable Insights: Every visual and metric is designed to inform strategies, from improving hotel services to designing loyalty programs.
-#  Design: The dashboard’s sleek, pastel-colored interface ensures a pleasant and intuitive user experience.
+# Beyond Numbers: 
+It’s not just about data but the story behind it—why travelers choose certain destinations and how their experiences evolve over time.
+# Actionable Insights: 
+Every visual and metric is designed to inform strategies, from improving hotel services to designing loyalty programs.
+#  Design:
+The dashboard’s sleek, pastel-colored interface ensures a pleasant and intuitive user experience.
 # 💡 How to Use the Dashboard
 Understand Destination Dynamics
 
@@ -52,9 +57,12 @@ Benchmark Hotel Performance
 Identify high-performing hotels as benchmarks and replicate their success strategies.
 
 # 🚀  Future Opportunities
-# Expand Demographics: Incorporate age, gender, and spending behavior for deeper insights.
-# Predictive Analytics: Use machine learning to forecast traveler preferences and trends.
-# Revenue Metrics: Add revenue data to assess profitability by destination and season.
+# Expand Demographics: 
+Incorporate age, gender, and spending behavior for deeper insights.
+# Predictive Analytics:
+Use machine learning to forecast traveler preferences and trends.
+# Revenue Metrics: 
+Add revenue data to assess profitability by destination and season.
 
 This dashboard is not just a tool—it’s your gateway to understanding the ever-evolving travel landscape. Dive in, explore, and unlock new opportunities!
 
