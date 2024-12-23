@@ -1,4 +1,4 @@
-## Travel Destination Dashboard
+# Travel Destination Dashboard
 # ✈️ Introduction
 The Travel Destination Dashboard is a comprehensive analytical tool designed for travel enthusiasts, industry experts, and decision-makers. It transforms raw data into actionable insights, revealing trends in traveler behavior, destination popularity, and membership engagement.
 
