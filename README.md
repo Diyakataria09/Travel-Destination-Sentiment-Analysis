@@ -66,6 +66,8 @@ Add revenue data to assess profitability by destination and season.
 
 This dashboard is not just a tool—it’s your gateway to understanding the ever-evolving travel landscape. Dive in, explore, and unlock new opportunities!
 
+# Dashboard : https://drive.google.com/file/d/1sMzfo3hXyw1dBn8zi_0wU5Mgi0IEP9L_/view?usp=sharing
+
 
 
 
