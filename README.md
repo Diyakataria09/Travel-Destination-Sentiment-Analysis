@@ -5,7 +5,7 @@ The Travel Destination Dashboard is a comprehensive analytical tool designed for
 This dashboard doesn’t just visualize data—it tells the story of global travel patterns, seasonal preferences, and user engagement dynamics, empowering stakeholders to make informed decisions.
 
 # 🌟 Key Insights
-1. # The Power of Popular Destinations
+# 1.  The Power of Popular Destinations
 The USA and UK emerge as global travel hotspots, attracting significantly more attention than other destinations.
 Brazil and Germany, while notable, have room for growth, offering opportunities for targeted campaigns.
 # 2. Seasonal Trends That Speak Volumes
